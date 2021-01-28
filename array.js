@@ -40,7 +40,7 @@ console.log(array1.reverse());
 
 console.log(array2.shift()); //removes first element
 
-console.log(array3.slice(2)); //slice
+console.log(array3.slice(2)); //slice slice......
 
 
 
