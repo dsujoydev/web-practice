@@ -44,6 +44,11 @@ console.log(array3.slice(2)); //slice slice......
 
 console.log(array1);
 
+const months = ['Jan', 'March', 'April', 'June'];
+months.splice(1, 2, 'Feb');
+// inserts at index 1
+console.log(months);
+
 
 
 
